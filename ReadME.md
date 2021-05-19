@@ -10,7 +10,7 @@
     
 </ul>
 
-TO view code goto src/com.company/Main.java
+TO view code goto src/com/company/Main.java
 
 Programming Language Used: Java
 
